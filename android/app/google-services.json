@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690307246563",
+    "project_id": "kkabiheoli-a5eec",
+    "storage_bucket": "kkabiheoli-a5eec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690307246563:android:b51bd836a8056b4b8858d6",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4XI-0iL4DxlUOq98LC5lM67jOH21bF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
